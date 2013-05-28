@@ -1,0 +1,2 @@
+Modified version of http://code.google.com/p/phantomjs/source/browse/test/lib/jasmine-console.js?r=5ffeef450ceaef7dca2fe2c8572b5657ea1c03ec
+To display colors in browser console, not for the terminal console.
